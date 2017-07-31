@@ -1,0 +1,10 @@
+.git/
+.vscode/
+test/
+src/
+dist/test/
+.gitignore
+tsconfig.json
+wallaby.js
+.tscache/
+
